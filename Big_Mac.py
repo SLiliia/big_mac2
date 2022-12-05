@@ -1,5 +1,6 @@
 import streamlit as st
-
+st.title("Saifulina Liliia")
+st.title("22000841")
 st.title("Order")
 
 st.image("mcdonalds-menu.png", width=300)
